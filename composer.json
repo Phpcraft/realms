@@ -1,0 +1,25 @@
+{
+	"name": "craft/realms",
+	"description": "A PHP library for interacting with the Minecraft: Java Edition Realms API.",
+	"keywords": [
+		"minecraft-realms",
+		"minecraft-java-edition",
+		"minecraft-java",
+		"minecraft",
+		"mcje"
+	],
+	"homepage": "https://github.com/Phpcraft/realms",
+	"type": "library",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"Phpcraft\\": "src/"
+		}
+	},
+	"require": {
+		"php": "^7.1",
+		"ext-curl": "*",
+		"craft/core": "*",
+		"hell-sh/uuid": "^1.2"
+	}
+}
