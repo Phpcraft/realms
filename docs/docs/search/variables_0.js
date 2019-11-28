@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['_24account_45',['$account',['../classPhpcraft_1_1Realms_1_1Invite.html#a8a9aff8ad1bfc2219d8291b68f15eacd',1,'Phpcraft\Realms\Invite\$account()'],['../classPhpcraft_1_1Realms_1_1Server.html#a1ec6f260e83bb7ab2312779e8d762a38',1,'Phpcraft\Realms\Server\$account()']]],
+  ['_24days_5fleft_46',['$days_left',['../classPhpcraft_1_1Realms_1_1Server.html#ab24696d1f04213d7d4bba4a54f75269d',1,'Phpcraft::Realms::Server']]],
+  ['_24description_47',['$description',['../classPhpcraft_1_1Realms_1_1Server.html#ae761a62b41946e068c81f6e3ba1d2d75',1,'Phpcraft::Realms::Server']]],
+  ['_24expired_48',['$expired',['../classPhpcraft_1_1Realms_1_1Server.html#a734b6619d4cafebb14b81e28935abcaf',1,'Phpcraft::Realms::Server']]],
+  ['_24expired_5ftrial_49',['$expired_trial',['../classPhpcraft_1_1Realms_1_1Server.html#ace146c7bdbfe21a4440190f645e5cff1',1,'Phpcraft::Realms::Server']]],
+  ['_24id_50',['$id',['../classPhpcraft_1_1Realms_1_1Invite.html#a9f3250aeeff52803144ed5bb1cd0a618',1,'Phpcraft\Realms\Invite\$id()'],['../classPhpcraft_1_1Realms_1_1Server.html#a8a237bf38656a2c401b7ebe06733516f',1,'Phpcraft\Realms\Server\$id()']]],
+  ['_24invite_5ftime_51',['$invite_time',['../classPhpcraft_1_1Realms_1_1Invite.html#ac69761173a5d0d0b0a160d66b67f1556',1,'Phpcraft::Realms::Invite']]],
+  ['_24max_5fplayers_52',['$max_players',['../classPhpcraft_1_1Realms_1_1Server.html#ae58d153c86fba8230ed0d33f5a692088',1,'Phpcraft::Realms::Server']]],
+  ['_24minigame_5fid_53',['$minigame_id',['../classPhpcraft_1_1Realms_1_1Server.html#ac37c19ccb838d34459dfd2eb1d09ee0b',1,'Phpcraft::Realms::Server']]],
+  ['_24minigame_5fimage_54',['$minigame_image',['../classPhpcraft_1_1Realms_1_1Server.html#a0469ea03c55255c0f14fa4f162ebabae',1,'Phpcraft::Realms::Server']]],
+  ['_24minigame_5fname_55',['$minigame_name',['../classPhpcraft_1_1Realms_1_1Server.html#a8c51daeaba755362a5b6242b0d4a23bc',1,'Phpcraft::Realms::Server']]],
+  ['_24name_56',['$name',['../classPhpcraft_1_1Realms_1_1Server.html#a02b6bb6067795e2a05a0709bd5cd5bd8',1,'Phpcraft::Realms::Server']]],
+  ['_24owner_5fname_57',['$owner_name',['../classPhpcraft_1_1Realms_1_1Server.html#a7dd33a9f708c5b5ff57608fa667a956b',1,'Phpcraft::Realms::Server']]],
+  ['_24owner_5fuuid_58',['$owner_uuid',['../classPhpcraft_1_1Realms_1_1Server.html#ac4d7509f826b2ab302b86db4d3807801',1,'Phpcraft::Realms::Server']]],
+  ['_24players_59',['$players',['../classPhpcraft_1_1Realms_1_1Server.html#a37a73b01d786da9a7343e560b64f8e64',1,'Phpcraft::Realms::Server']]],
+  ['_24server_5fdescription_60',['$server_description',['../classPhpcraft_1_1Realms_1_1Invite.html#a2e0a2d102d22a9c2260cb798f0add2d5',1,'Phpcraft::Realms::Invite']]],
+  ['_24server_5fname_61',['$server_name',['../classPhpcraft_1_1Realms_1_1Invite.html#a13c488af940e1bc3c0bfcd2fdfb9d02c',1,'Phpcraft::Realms::Invite']]],
+  ['_24server_5fowner_5fname_62',['$server_owner_name',['../classPhpcraft_1_1Realms_1_1Invite.html#afae542f3d591ad391fc03e0cd012aba0',1,'Phpcraft::Realms::Invite']]],
+  ['_24server_5fowner_5fuuid_63',['$server_owner_uuid',['../classPhpcraft_1_1Realms_1_1Invite.html#ab63a8423bedd2c4295d9efd151d05bc5',1,'Phpcraft::Realms::Invite']]],
+  ['_24state_64',['$state',['../classPhpcraft_1_1Realms_1_1Server.html#a7e18c9ba21a4b5c154ac8aca7388faf8',1,'Phpcraft::Realms::Server']]],
+  ['_24world_5ftype_65',['$world_type',['../classPhpcraft_1_1Realms_1_1Server.html#a9707de9b3c927424bb1cf12124553201',1,'Phpcraft::Realms::Server']]]
+];
